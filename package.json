@@ -12,9 +12,14 @@
     "@types/node": "20.4.2",
     "@types/react": "18.2.15",
     "@types/react-dom": "18.2.7",
+    "drizzle-orm": "^0.27.2",
     "next": "13.4.10",
+    "postgres": "^3.3.5",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.19.9"
   }
 }
